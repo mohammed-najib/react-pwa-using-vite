@@ -15,3 +15,11 @@ yarn tailwindcss init -p
 ```
 
 ### Just modified vite.config.ts to configure PWA sittings
+
+### And modified index.html to have the following
+
+```html
+<meta name="theme-color" content="#000000" />
+<!-- support apple devices -->
+<link rel="apple-touch-icon" href="/vite.svg" />
+```

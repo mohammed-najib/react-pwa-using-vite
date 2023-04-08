@@ -26,4 +26,4 @@ yarn tailwindcss init -p
 
 #### I followed the the following tutorial link
 
-<a src="https://dev.to/bhendi/turn-your-react-vite-app-into-a-pwa-3lpg">Turn your react + vite app into a PWA</a>
+https://dev.to/bhendi/turn-your-react-vite-app-into-a-pwa-3lpg
